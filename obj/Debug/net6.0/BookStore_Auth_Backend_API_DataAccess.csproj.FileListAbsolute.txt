@@ -1,0 +1,17 @@
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\bin\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.deps.json
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\bin\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.runtimeconfig.json
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\bin\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.dll
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\bin\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.pdb
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\bin\Debug\net6.0\BookStore_Auth_Backend_API_Models.dll
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\bin\Debug\net6.0\BookStore_Auth_Backend_API_Models.pdb
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.csproj.AssemblyReference.cache
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.AssemblyInfoInputs.cache
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.AssemblyInfo.cs
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.csproj.CoreCompileInputs.cache
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.csproj.CopyComplete
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.dll
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\refint\BookStore_Auth_Backend_API_DataAccess.dll
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.pdb
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\BookStore_Auth_Backend_API_DataAccess.genruntimeconfig.cache
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_DataAccess\obj\Debug\net6.0\ref\BookStore_Auth_Backend_API_DataAccess.dll
